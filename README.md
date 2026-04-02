@@ -1,6 +1,6 @@
 # Review Hotel UNY
 
-## 📌 Deskripsi Proyek
+## 📌 Deskripsi
 Menganalisis ulasan tamu Hotel UNY untuk memahami tingkat kepuasan pelanggan. Dengan memanfaatkan teknik **Natural Language Processing (NLP)**, data teks diolah untuk menentukan kecenderungan sentimen secara otomatis.
 
 ## 🛠️ Tech Stack
